@@ -1,0 +1,78 @@
+  header{
+  position: absolute;
+width: 564px;
+height: 74px;
+left: -49px;
+top: 16px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 60px;
+text-align: center;
+
+color: #000000;
+
+}
+
+  img{
+   position: absolute;
+ width: 312px;
+ height: 446px;
+ left: 38px;
+ top: 94px;
+
+ border: 9px solid #F2CDFF;
+ border-radius: 56px;
+ }
+
+
+h1{
+  position: absolute;
+ width: 1034px;
+ height: 446px;
+ left: 373px;
+ top: 90px;
+ background: #FBC9FF;
+ mix-blend-mode: multiply;
+ border: 1px solid #000000;
+border-radius: 52px;
+}
+
+li{
+position: absolute;
+width: 1039px;
+height: 381px;
+left: 373px;
+top: 106px;
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 60px;
+display: flex;
+align-items: center;
+text-align: center;
+height: 446px;
+left: 373px;
+top: 90px;
+color: #000000;
+
+}
+
+h2{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 1030px;
+  height: 450px;
+  left: 38px;
+  top: 570px;
+
+  background: #FBC9FF;
+  mix-blend-mode: multiply;
+  border: 1px solid #000000;
+  border-radius: 52px;
+
+}

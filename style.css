@@ -2,7 +2,7 @@
   position: absolute;
 width: 564px;
 height: 74px;
-left: -49px;
+left: 0px;
 top: 16px;
 
 font-family: 'Lexend';
@@ -16,7 +16,24 @@ color: #000000;
 
 }
 
-  img{
+.watch{
+position: absolute;
+width: 1352px;
+height: 939px;
+left: 38px;
+top: 1073px;
+}
+
+.pea{
+  position: absolute;
+width: 64px;
+height: 62px;
+left: 30px;
+top: 16px;
+border-radius: 18px;
+}
+
+.hidcow {
    position: absolute;
  width: 312px;
  height: 446px;
@@ -25,6 +42,16 @@ color: #000000;
 
  border: 9px solid #F2CDFF;
  border-radius: 56px;
+ }
+
+ .livslug{
+   position: absolute;
+width: 312px;
+height: 446px;
+left: 1100px;
+top: 574px;
+border: 9px solid #FBC9FF;
+border-radius: 56px;
  }
 
 
@@ -40,7 +67,7 @@ h1{
 border-radius: 52px;
 }
 
-li{
+.texto1{
 position: absolute;
 width: 1039px;
 height: 381px;
@@ -61,6 +88,25 @@ color: #000000;
 
 }
 
+ .texto2{
+   position: absolute;
+width: 1030px;
+height: 446px;
+left: 170px;
+top: 574px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 60px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+ }
+
 h2{
   box-sizing: border-box;
 
@@ -74,5 +120,40 @@ h2{
   mix-blend-mode: multiply;
   border: 1px solid #000000;
   border-radius: 52px;
+
+}
+
+.BT {
+  position: absolute;
+  width: 455px;
+  height: 74px;
+  left: 377px;
+  top: 32px;
+
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.BT1 {
+  position: absolute;
+  width: 455px;
+  height: 74px;
+  left: 619px;
+  top: 32px;
+
+  font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+
+  color: #000000;
 
 }

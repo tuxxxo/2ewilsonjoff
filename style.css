@@ -17,11 +17,11 @@ color: #000000;
 }
 
 .watch{
-position: absolute;
-width: 1352px;
-height: 939px;
-left: 38px;
-top: 1073px;
+  position: absolute;
+  width: 1352px;
+  height: 823px;
+  left: 38px;
+  top: 1189px;
 }
 
 .pea{
@@ -156,4 +156,23 @@ h2{
 
   color: #000000;
 
+}
+
+h3{
+  position: absolute;
+width: 1362px;
+height: 63px;
+left: 50px;
+top: 1089px;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 45px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
 }
